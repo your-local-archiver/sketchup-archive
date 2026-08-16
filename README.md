@@ -3,9 +3,11 @@ The ultimate archive of sketchup installers!
 ---
 THIS WAS MADE PURELY FOR ARCHIVIAL PURPOSES, THIS IS NOT INTENDED TO BE A PIRATE REPOSITORY, SKETCHUP IS OWNED BY TRIMBLE INC.
 ---
-Credits to zyn for helping me share the archive on reddit and 13pwn studio for helping me publish <3.
----
-You can now get this project from the [Internet Archive](https://archive.org/details/sketchup-download-all)
+Credits to u/elmtec-adam on su community for sketchup 3
+
+Get it from the [yourlocalarchiver site](yourlocalarchiver.neocities.org/download/all)
+
+Or download from the [Internet Archive(has slow downloads.)](https://archive.org/details/sketchup-download-all)
 
 And from [Google Drive](https://drive.google.com/drive/folders/1W2wmCX-0-YbCdLm6eq511-k_Y6SuIt8D?usp=drive_link)
 
