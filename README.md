@@ -7,7 +7,7 @@ Credits to u/elmtec-adam on su community for sketchup 3
 
 Get it from the [yourlocalarchiver site](yourlocalarchiver.neocities.org/download/all)
 
-Or download from the [Internet Archive(has slow downloads and not often updated)](https://archive.org/details/sketchup-download-all)
+Or download from the [Internet Archive](https://archive.org/details/sketchup-download-all)(has slow downloads and not often updated)
 
 And from [Google Drive](https://drive.google.com/drive/folders/1W2wmCX-0-YbCdLm6eq511-k_Y6SuIt8D?usp=drive_link)
 
