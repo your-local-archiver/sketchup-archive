@@ -16,3 +16,9 @@ This was such a long project with obstacles on the way, but i enjoyed it because
 You can help this archive grow by contributing your archived installers at yourlocalarchiver17@gmail.com
 
 Enjoy!!!
+
+
+
+
+Update 1.5
+Removed SU 8 Trimble ver due to suspicion of malware
